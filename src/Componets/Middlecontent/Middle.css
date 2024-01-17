@@ -1,0 +1,16 @@
+
+
+
+.midlecontainers{
+  display: flex;
+  flex-direction: row;
+  /* width: 70vw; */
+}
+
+.middle{
+  width: 70vw;
+}
+
+.rightbar{
+  width: 15vw;
+}

@@ -1,0 +1,62 @@
+.Sidecontainer {
+  width: 15vw;
+  height: 100%;
+  padding: 10px 10px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  border-right: 1px solid lightgray;
+ margin: 10px;
+  /* position: fixed; */
+ 
+}
+
+
+
+.shebox {
+  width: 200px;
+  height: 112px;
+  border-radius: 10px;
+  border: 1px solid #f8f8f8;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.shename {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+}
+
+.shename h2 {
+  font-size: 15px;
+  color: #64748B;
+}
+
+.prize p{
+  color: #64748B;
+}
+
+
+.prize {
+  display: flex;
+  gap: 9px;
+}
+
+
+.sections{
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  /* position: fixed; */
+}
+

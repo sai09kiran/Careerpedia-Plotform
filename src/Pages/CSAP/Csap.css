@@ -1,0 +1,20 @@
+
+
+.csap{
+    display: flex;
+    gap: 10px;
+}
+
+.csap p{
+    font-size: 15px;
+    color: lightgray;
+}
+
+.csap p:hover {
+    color: #FF9F43;
+}
+
+.csap img{
+    width: 20px;
+height: 20px;
+}

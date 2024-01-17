@@ -1,0 +1,68 @@
+
+
+
+
+.graphic{
+    display: flex;
+    padding: 25px;
+    gap: 10px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+   flex-direction: column;
+   width: 960px;
+height: 225px;
+margin: 10px;
+padding-top: 20px;
+}
+
+.graphic h1{
+    font-size: 20px;
+
+}
+
+.graphicinfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+.graphicinfo h2{
+    font-size: 15px;
+
+}
+
+.graphicinfo p{
+    color: lightgray;
+    font-size: 12px;
+}
+
+
+.graphiccontent{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 10px;
+    overflow-y: scroll;
+    height: 100px;
+}
+
+.graphiccontent p{
+    color: lightgray;
+    
+}
+
+.points{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    
+   
+}
+
+.pointsloss{
+    display: flex;
+    gap: 15px;
+   
+}

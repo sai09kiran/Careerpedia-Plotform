@@ -1,0 +1,184 @@
+
+
+.bar{
+    display: flex;
+}
+
+.middlecontainer{
+    display: flex;
+    flex-direction: column;
+    width: 70vw;
+   
+
+}
+
+
+.details{
+  width: 100%;
+    display: flex;
+    justify-content: space-between;
+  
+    align-items: center;
+    gap: 20px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+
+.she{
+    display: flex;
+    gap: 20px;
+    
+    
+}
+
+.phn{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.phn h1{
+    font-size: 13px;
+    color: lightgray;
+}
+
+.phn2{
+    display: flex;
+    gap: 20px;
+}
+
+.pen h6{
+    color: lightgreen;
+}
+
+
+.education{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    gap: 15px;
+}
+
+.education h2{
+    font-size: 13px;
+    color: lightgray;
+}
+
+.educationdetails{
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    /* padding-top: 25px; */
+  
+}
+.maine{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding: 10px;
+    width: 345px;
+height: 180px;
+}
+
+.maine h3{
+    font-size: 14px;
+    color: #2F4362;
+}
+
+.maine p{
+    color: lightgray;
+}
+
+
+.university{
+    display: flex;
+    padding-top: 10px;
+    gap: 10px;
+}
+
+.gpc{
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-between;
+
+}
+
+.gpc h2{
+    font-size: 25px;
+    color: #2F4362;
+}
+
+.gpc2{
+    display: flex;
+    gap: 10px;
+}
+
+.gpc2 p{
+    font-size: 10px;
+    
+}
+
+.gpc2 img{
+    width: 18px;
+    height: 18px;
+}
+
+
+
+
+.experiance{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* padding: 10px; */
+    margin: 10px;
+    gap: 10px;
+}
+
+
+.experiancedetails{
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.maine2{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding: 10px;
+    width: 345px;
+height: 140px;
+}
+
+.maine2 p{
+    color: lightgray;
+}
+
+.ym{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+
+.ym h2{
+    font-size: 25px;
+    color: #2F4362;
+}
+
+.ym2 p{
+    font-size: 12px;
+}

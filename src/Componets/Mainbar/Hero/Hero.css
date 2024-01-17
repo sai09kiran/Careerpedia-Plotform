@@ -1,0 +1,43 @@
+
+
+.progress{
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    width: 975px;
+    /* height: 110px; */
+}
+
+.box{
+   display: flex;
+   gap: 10px;
+   flex-direction: column;
+    border: 1px solid lightgray;
+    border-radius: 9px;
+    width: 228px;
+    height: 140px;
+    padding: 5px;
+}
+
+.box .name{
+    color: black;
+}
+
+.box p{
+    color: lightgray;
+}
+
+.boxinside{
+    display: flex;
+    justify-content: space-between;
+}
+
+.boxinside p{
+    color: lightgray;
+}
+
+.box .linebar{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}

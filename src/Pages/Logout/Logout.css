@@ -1,0 +1,21 @@
+
+
+.log{
+    display: flex;
+    gap: 10px;
+    padding-top: 90px;
+}
+
+.log p{
+    font-size: 15px;
+    color: lightgray;
+}
+
+.log p:hover {
+    color: #FF9F43;
+}
+
+.log img{
+    width: 20px;
+height: 20px;
+}

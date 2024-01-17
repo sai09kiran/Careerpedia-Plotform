@@ -1,0 +1,20 @@
+
+
+.refer{
+    display: flex;
+    gap: 10px;
+}
+
+.refer p{
+    font-size: 15px;
+    color: lightgray;
+}
+
+.refer p:hover {
+    color: #FF9F43;
+}
+
+.refer img{
+    width: 20px;
+height: 20px;
+}

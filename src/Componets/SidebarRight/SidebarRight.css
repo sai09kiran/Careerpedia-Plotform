@@ -1,0 +1,147 @@
+
+
+.Rightcontainer{
+    width: 15vw;
+    
+display: flex;
+justify-content: center;
+gap: 10px;
+padding: 10px;
+margin: 10px;
+flex-direction: column;
+}
+
+.Zerohero{
+    width: 190px;
+    height: 130px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+     padding: 10px;
+}
+
+.Zerohero h2{
+    font-size: 12px;
+    text-align: center;
+}
+
+.Zerohero{
+   
+    display: grid;
+    grid-template-columns:repeat(4, 1fr) ;
+   text-align: center;
+}
+
+  
+.levelbox{
+    width: 190px;
+    height: 110px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+  text-align: center;
+  gap: 10px;
+  padding: 10px;
+ 
+}
+ 
+.levelbox h2{
+    font-size: 13px;
+    color: orange;
+}
+
+.levelbox p{
+    font-size: 14px;
+    color: lightgray;
+}
+
+.levelboxinfo{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+
+
+.bookslot{
+    width: 200px;
+    height: 350px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+  text-align: center;
+  gap: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.bookslot h2{
+    font-size: 15px;
+    color:  #2F4362;
+}
+
+.bookslot p{
+    font-size: 12px;
+    color: lightgray;
+}
+
+/* .bookslot  img{
+    width: 84.252px;
+    height: 80.509px;
+} */
+
+.bookslot button {
+    display: flex;
+width: 156px;
+height: 30px;
+padding: 8px;
+justify-content: center;
+align-items: center;
+border-radius: 4px;
+background: #FF9F43;
+text-align: center;
+color: white;
+border: none;
+
+}
+
+
+
+
+.career{
+    width: 200px;
+    height: 287px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+  text-align: center;
+  gap: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.career h2{
+    font-size: 15px;
+    color:  #2F4362; 
+}
+
+.career img{
+    width: 160.167px;
+height: 166px;
+}
+
+.career  button{
+    display: flex;
+width: 156px;
+height: 30px;
+padding: 8px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 4px;
+background: #467FFF;
+border: none;
+color: white;
+}

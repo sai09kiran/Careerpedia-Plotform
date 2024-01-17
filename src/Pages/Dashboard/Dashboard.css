@@ -1,0 +1,20 @@
+
+
+.dashboard{
+    display: flex;
+    gap: 10px;
+}
+
+.dashboard p{
+    font-size: 15px;
+    color: lightgray;
+}
+
+.dashboard p:hover {
+    color: #FF9F43;
+}
+
+.dashboard img{
+    width: 18px;
+height: 18px;
+}

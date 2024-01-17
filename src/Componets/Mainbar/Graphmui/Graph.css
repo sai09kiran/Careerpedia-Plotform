@@ -1,0 +1,72 @@
+
+
+.graph{
+    display: flex;
+   justify-content: space-around;
+    /* padding: 10px; */
+    margin: 10px;
+    width: 960px;
+    height: 225px;
+ gap: 15px;
+ 
+}
+
+.english{
+    width: 472px;
+    height: 328px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding:5px;
+
+}
+
+
+
+.englishhed h2{
+    font-size: 13px;
+}
+
+.englishmonth{
+    display: flex;
+    gap: 5px;
+    padding-top: 15px;
+    justify-content: flex-end;
+}
+
+.englishmonth .yellow{
+    color: orange;
+}
+
+.englishmonth p{
+    color: lightgray;
+}
+
+
+
+.upskill{
+    width: 472px;
+    height: 328px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding:5px; 
+    
+}
+
+.uphead h2{
+    font-size: 13px;
+}
+
+.upheadmonth{
+    display: flex;
+    gap: 5px;
+    padding-top: 15px;
+    justify-content: flex-end;
+}
+
+.upheadmonth p{
+    color: lightgray;
+}
+
+.upheadmonth .yellow{
+    color: orange;
+}

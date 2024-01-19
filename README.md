@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+Careerpdia Plotform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Academic Performance Tracker:
+Monitor your academic progress with an intuitive performance tracker. Track grades, assignments, and exams to stay on top of your studies.
+Personalized Learning Resources:
+Access a curated collection of learning resources tailored to your courses and academic needs. From e-books and articles to video lectures, CareerPedia ensures you have the tools you need to excel.
+Career Exploration Tools:
+Navigate your future with confidence using our career exploration tools. Discover potential career paths, industry trends, and required skills to make informed decisions about your professional journey.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Singin](https://github.com/sai09kiran/Careerpedia-Plotform/assets/149383868/cbfcd3e8-d232-4f2d-b82f-f71af1fdc8ce)
+![signup](https://github.com/sai09kiran/Careerpedia-Plotform/assets/149383868/c2e9c727-f293-48cc-95af-6b349611002f)
+![homepage](https://github.com/sai09kiran/Careerpedia-Plotform/assets/149383868/f8d91d2d-8dcc-49e7-a2f1-deda080c775b)
+![proflie](https://github.com/sai09kiran/Careerpedia-Plotform/assets/149383868/af9503f2-1fbd-4dfd-b8f2-786c16327717)
+![details](https://github.com/sai09kiran/Careerpedia-Plotform/assets/149383868/0e532a53-4f70-4e8a-8e06-e19c18d2ad8f)
